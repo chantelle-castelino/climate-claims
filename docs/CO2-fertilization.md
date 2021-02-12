@@ -8,8 +8,8 @@ Kovenock, M. and Swann, A.L.S., 2018. Leaf Trait Acclimation Amplifies Simulated
 <br><br>
 Poorter, H., Niinemets, Ü., Poorter, L., Wright, I.J. and Villar, R., 2009. Causes and consequences of variation in leaf mass per area (LMA): a meta-analysis. New Phytologist, 182(3), pp.565–588.
 <br><br>
-Reiny, S., 2016. CO2 is making Earth greener—for now. [online] Climate Change: Vital Signs of the Planet. Available at: <div style="display: inline"><https://climate.nasa.gov/news/2436/co2-is-making-earth-greenerfor-now></div> [Accessed 11 Feb. 2021].
+Reiny, S., 2016. CO2 is making Earth greener—for now. [online] Climate Change: Vital Signs of the Planet. Available at: https://<span></span>climate.nasa.gov/news/2436/co2-is-making-earth-greenerfor-now [Accessed 11 Feb. 2021].
 <br><br>
-Richard, K., 2021. Another New Study Says Warming And CO2-Induced Greening Leads To COOLING Of Land Surface Temperatures. [online] Watts Up With That? Available at: <https://wattsupwiththat.com/2021/01/22/another-new-study-says-warming-and-co2-induced-greening-leads-to-cooling-of-land-surface-temperatures/> [Accessed 11 Feb. 2021].
+Richard, K., 2021. Another New Study Says Warming And CO2-Induced Greening Leads To COOLING Of Land Surface Temperatures. [online] Watts Up With That? Available at: <https://<span></span>wattsupwiththat.com/2021/01/22/another-new-study-says-warming-and-co2-induced-greening-leads-to-cooling-of-land-surface-temperatures/> [Accessed 11 Feb. 2021].
 <br><br>
-Twitter, 2021. Kenneth Richard (@Kenneth72712993) / Twitter. [online] Twitter. Available at: <https://twitter.com/Kenneth72712993> [Accessed 11 Feb. 2021].
+Twitter, 2021. Kenneth Richard (@Kenneth72712993) / Twitter. [online] Twitter. Available at: <https://<span></span>twitter.com/Kenneth72712993> [Accessed 11 Feb. 2021].
